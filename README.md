@@ -2,29 +2,31 @@
 
 ## **Theme:** ⚡ Electricity ⚡
 
-For the past year and a half, electricity prices have been soaring and it affects us all. To help save on prices people are taking active measures like lowering the temperature and being more careful of turning of the lights.
+For the past year and a half, electricity prices have been soaring and it affects us all. To help save on prices people have quickly become much more conscious about their usage.
 
-Even though with active measures, the most effective way of saving money on power is by choosing a power provider that charges the least amount of money (😝).
+Reducing your power bill is a two faced problem, firstly you have to reduce actual usage, but you can also save by choosing the *best* power provider.
+ - There are many providers to consider, and each provider may have their own unique pricing model.
+ ([Also doesn't help that most people have no idea about what they are paying. (Norwegian)](https://www.forbrukerradet.no/siste-nytt/ingen-vet-hva-strommen-koster/))
 
-So in this task, we want you to create an application or service that can help consumers choose which power provider that is cheapest for them. You can solve this task in any way you want to, either frontend, backend or with design. See the **How to deliver** section below for what is relevant for you.
 
---
+All in all, it can be a bit confusing and a bit overwhelming.
 
-## How to solve it
+So in this task, we want you to create an application or service that can help consumers choose the power provider that is cheapest for them.
+There are many considerations and approaches to solving such a problem, you are therefore free to solve this task in any way you want. You are free to focus on frontend, backend, design or everything combined. Creativity is encourged!
+ - One important consideration is **explainability**.
 
-You probably want to base your solution on some data. See under the **Data** section on where you can get mock data.
+## Starting point
 
-You are free to base you solution from this web application. It is a Javascript and React application that contains a simple data fetcher and a library for displaying the data in graphs. If you use this repository as the base, please read the [How to run]() file on how to do so.
+You are free to base you solution from the web application packaged in this repo. It is a Javascript and React application that contains a simple data fetcher and a library for displaying the data in graphs. If you use this repository as the base, please read the [How to run]() file on how to do so.
 
-Otherwise are you free to start from scratch. As mentioned, the solution can have a frontend, be a service that is accessable through an API or a sketch for how the solution might look with an emphasis on the user experience.
+Otherwise are you free to start from scratch and take the assignment in any direction that you want. The only requirement is that it remains related to fintech. There are likely many other starting points to take inspiration from, one example being [Strømpris.no](https://www.strompris.no/)
 
-You are free to be as creative as you want. The app can be what you want as long as it follows the theme in some way (and most preferably has something to do with Fintech). We love to see how you solve in many different ways! You can see an example of an similar app at [Strømpris.no](https://www.strompris.no/)
-
---
 
 ## Data
 
 We have created two different datasets that you can either read/copy directly from the folder. One is for the power consumption the last 500 hours for one household, the second is the prices and price models of some made up power providers. They are located in the `data` folder in this repository
+
+TODO: Update host once app has been deployed
 
 The data is also available through an API. So if you for example go to `https://www.PUT_IN_FINAL_URL/api/providers` you will get the same data.
 
