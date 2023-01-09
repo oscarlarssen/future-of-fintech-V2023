@@ -28,11 +28,11 @@ We have created two different datasets that you can either read/copy directly fr
 
 TODO: Update host once app has been deployed
 
-The data is also available through an API. So if you for example go to `https://www.PUT_IN_FINAL_URL/api/providers` you will get the same data.
+The data is also available through an API. So if you for example go to `https://future-of-fintech-v2023.vercel.app/api/providers` you will get the same data.
 
 Endpoints:
 
-`https://www.PUT_IN_FINAL_URL/api/providers`, `https://www.PUT_IN_FINAL_URL/api/consumption`
+`https://future-of-fintech-v2023.vercel.app/api/providers`, `https://future-of-fintech-v2023.vercel.app/api/consumption`
 
 --
 
