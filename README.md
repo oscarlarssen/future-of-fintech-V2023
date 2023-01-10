@@ -26,7 +26,6 @@ Otherwise are you free to start from scratch and take the assignment in any dire
 
 We have created two different datasets that you can either read/copy directly from the folder. One is for the power consumption the last 500 hours for one household, the second is the prices and price models of some made up power providers. They are located in the `data` folder in this repository
 
-TODO: Update host once app has been deployed
 
 The data is also available through an API. So if you for example go to `https://future-of-fintech-v2023.vercel.app/api/providers` you will get the same data.
 
