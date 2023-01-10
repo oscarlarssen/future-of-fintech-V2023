@@ -17,7 +17,7 @@ There are many considerations and approaches to solving such a problem, you are 
 
 ## Starting point
 
-You are free to base you solution from the web application packaged in this repo. It is a Javascript and React application that contains a simple data fetcher and a library for displaying the data in graphs. If you use this repository as the base, please read the [How to run]() file on how to do so.
+You are free to base you solution from the web application packaged in this repo. It is a Javascript and React application that contains a simple data fetcher and a library for displaying the data in graphs. If you use this repository as the base, please read the [How to run](https://github.com/stacc/future-of-fintech-V2023/blob/main/how-to-run.md) file on how to do so.
 
 Otherwise are you free to start from scratch and take the assignment in any direction that you want. The only requirement is that it remains related to fintech. There are likely many other starting points to take inspiration from, one example being [Strømpris.no](https://www.strompris.no/)
 
