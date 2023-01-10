@@ -12,7 +12,7 @@ Reducing your power bill is a two faced problem, firstly you have to reduce actu
 All in all, it can be a bit confusing and a bit overwhelming.
 
 So in this task, we want you to create an application or service that can help consumers choose the power provider that is cheapest for them.
-There are many considerations and approaches to solving such a problem, you are therefore free to solve this task in any way you want. You are free to focus on frontend, backend, design or everything combined. Creativity is encourged!
+There are many considerations and approaches to solving such a problem, you are therefore free to solve this task in any way you want. You are free to focus on frontend, backend, design or everything combined. Creativity is encouraged!
  - One important consideration is **explainability**. There may be multiple factors that determine if a provider is _good_ or _bad_, please make an effort to detail why we can classify it as one or the other. 
 
 ## Starting point
@@ -50,7 +50,7 @@ The admins are also listening to this channel so feel free to reach out!
 
 ### Important!
 
-> We advise you to be concious about how your work can be assessed. Make it simple to access, run, and review. 😊
+> We advise you to be conscious about how your work can be assessed. Make it simple to access, run, and review. 😊
 
 > We can only review work that we can run, so make sure to package dependencies, include instructions, etc.
 
